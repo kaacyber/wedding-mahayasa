@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'wedding2';
+					src: url('732wedding2.woff2') format('woff2'),
+						url('732wedding2.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.wedding2{font-family: 'wedding2' !important;}
+
+		
